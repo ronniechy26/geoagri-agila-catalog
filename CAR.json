@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "ZXNMBMANBS",
+    "type": "group",
+    "name": "Abra",
+    "members": [
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Bangued",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Bangued'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Boliney",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Boliney'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Bucay",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Bucay'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Bucloc",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Bucloc'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Daguioman",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Daguioman'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Danglas",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Danglas'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Dolores",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Dolores'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "La Paz",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'La Paz'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Lacub",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Lacub'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Lagangilang",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Lagangilang'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Lagayan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Lagayan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Langiden",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Langiden'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Licuan-Baay",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Licuan-Baay'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Luba",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Luba'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Malibcong",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Malibcong'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Manabo",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Manabo'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Peñarrubia",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Peñarrubia'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Pidigan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Pidigan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Pilar",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Pilar'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Sallapadan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Sallapadan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "San Isidro",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'San Isidro'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "San Juan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'San Juan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "San Quintin",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'San Quintin'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tayum",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Tayum'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tineg",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Tineg'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tubo",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Tubo'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Villaviciosa",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' AND municipality = 'Villaviciosa'"
+        }
+      }
+    ]
+  },
+  {
+    "id": "YTEPITBZEJ",
+    "type": "group",
+    "name": "Apayao",
+    "members": [
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Calanasan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao' AND municipality = 'Calanasan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Conner",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao' AND municipality = 'Conner'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Flora",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao' AND municipality = 'Flora'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Kabugao",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao' AND municipality = 'Kabugao'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Luna",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao' AND municipality = 'Luna'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Pudtol",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao' AND municipality = 'Pudtol'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Santa Marcela",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao' AND municipality = 'Santa Marcela'"
+        }
+      }
+    ]
+  },
+  {
+    "id": "YABVPZUBSB",
+    "type": "group",
+    "name": "Benguet",
+    "members": [
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Atok",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Atok'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Baguio City",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Baguio City'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Bakun",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Bakun'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Bokod",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Bokod'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Buguias",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Buguias'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Itogon",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Itogon'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Kabayan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Kabayan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Kapangan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Kapangan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Kibungan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Kibungan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "La Trinidad",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'La Trinidad'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Mankayan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Mankayan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Sablan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Sablan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tuba",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Tuba'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tublay",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet' AND municipality = 'Tublay'"
+        }
+      }
+    ]
+  },
+  {
+    "id": "NJXHWMZMKZ",
+    "type": "group",
+    "name": "Ifugao",
+    "members": [
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Aguinaldo",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Aguinaldo'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Alfonso Lista",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Alfonso Lista'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Asipulo",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Asipulo'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Banaue",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Banaue'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Hingyon",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Hingyon'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Hungduan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Hungduan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Kiangan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Kiangan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Lagawe",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Lagawe'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Lamut",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Lamut'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Mayoyao",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Mayoyao'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tinoc",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao' AND municipality = 'Tinoc'"
+        }
+      }
+    ]
+  },
+  {
+    "id": "XMFZWEJGOU",
+    "type": "group",
+    "name": "Kalinga",
+    "members": [
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Balbalan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Balbalan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Lubuagan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Lubuagan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Pasil",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Pasil'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Pinukpuk",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Pinukpuk'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Rizal",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Rizal'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tabuk City",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Tabuk City'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tanudan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Tanudan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tinglayan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga' AND municipality = 'Tinglayan'"
+        }
+      }
+    ]
+  },
+  {
+    "id": "OXPFWUXCKI",
+    "type": "group",
+    "name": "Mountain Province",
+    "members": [
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Balbalan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Balbalan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Barlig",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Barlig'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Bauko",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Bauko'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Besao",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Besao'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Bontoc",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Bontoc'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Natonin",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Natonin'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Paracelis",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Paracelis'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Sabangan",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Sabangan'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Sadanga",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Sadanga'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Sagada",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Sagada'"
+        }
+      },
+      {
+        "description": "Data is from LGU Proponent",
+        "type": "wms",
+        "name": "Tadian",
+        "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+        "layers": "geoagri:fmr_profile_flip",
+        "hideDefaultDescription": true,
+        "hideSource": true,
+        "tileErrorHandlingOptions": {
+          "ignoreUnknownTileErrors": true
+        },
+        "parameters": {
+          "transparent": "true",
+          "format": "image/png",
+          "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province' AND municipality = 'Tadian'"
+        }
+      }
+    ]
+  }
+]
