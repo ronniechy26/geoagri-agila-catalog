@@ -19,7 +19,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Batanes' AND municipality = 'Basco'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Basco'"
           }
         },
         {
@@ -36,7 +36,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Batanes' AND municipality = 'Itbayat'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Itbayat'"
           }
         },
         {
@@ -53,7 +53,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Batanes' AND municipality = 'Ivana'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Ivana'"
           }
         },
         {
@@ -70,7 +70,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Batanes' AND municipality = 'Mahatao'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Mahatao'"
           }
         },
         {
@@ -87,7 +87,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Batanes' AND municipality = 'Sabtang'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Sabtang'"
           }
         },
         {
@@ -104,7 +104,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Batanes' AND municipality = 'Uyugan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Uyugan'"
           }
         }
       ]
@@ -128,7 +128,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Abulug'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Abulug'"
           }
         },
         {
@@ -145,7 +145,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Alcala'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Alcala'"
           }
         },
         {
@@ -162,7 +162,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Allacapan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Allacapan'"
           }
         },
         {
@@ -179,7 +179,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Amulung'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Amulung'"
           }
         },
         {
@@ -196,7 +196,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Aparri'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Aparri'"
           }
         },
         {
@@ -213,7 +213,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Baggao'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Baggao'"
           }
         },
         {
@@ -230,7 +230,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Ballesteros'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Ballesteros'"
           }
         },
         {
@@ -247,7 +247,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Buguey'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Buguey'"
           }
         },
         {
@@ -264,7 +264,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Calayan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Calayan'"
           }
         },
         {
@@ -281,7 +281,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Camalaniugan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Camalaniugan'"
           }
         },
         {
@@ -298,7 +298,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Claveria'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Claveria'"
           }
         },
         {
@@ -315,7 +315,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Enrile'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Enrile'"
           }
         },
         {
@@ -332,7 +332,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Gattaran'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Gattaran'"
           }
         },
         {
@@ -349,7 +349,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Gonzaga'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Gonzaga'"
           }
         },
         {
@@ -366,7 +366,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Iguig'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Iguig'"
           }
         },
         {
@@ -383,7 +383,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Lal-Lo'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Lal-Lo'"
           }
         },
         {
@@ -400,7 +400,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Lasam'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Lasam'"
           }
         },
         {
@@ -417,7 +417,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Pamplona'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Pamplona'"
           }
         },
         {
@@ -434,7 +434,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Pe?ablanca'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Pe?ablanca'"
           }
         },
         {
@@ -451,7 +451,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Piat'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Piat'"
           }
         },
         {
@@ -468,7 +468,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Rizal'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Rizal'"
           }
         },
         {
@@ -485,7 +485,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Sanchez-Mira'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Sanchez-Mira'"
           }
         },
         {
@@ -502,7 +502,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Santa Ana'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santa Ana'"
           }
         },
         {
@@ -519,7 +519,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Santa Praxedes'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santa Praxedes'"
           }
         },
         {
@@ -536,7 +536,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Santa Teresita'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santa Teresita'"
           }
         },
         {
@@ -553,7 +553,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Santo Ni?o'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santo Ni?o'"
           }
         },
         {
@@ -570,7 +570,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Solana'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Solana'"
           }
         },
         {
@@ -587,7 +587,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Tuao'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Tuao'"
           }
         },
         {
@@ -604,7 +604,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Cagayan' AND municipality = 'Tuguegarao City'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Tuguegarao City'"
           }
         }
       ]
@@ -628,7 +628,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Alicia'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Alicia'"
           }
         },
         {
@@ -645,7 +645,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Angadanan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Angadanan'"
           }
         },
         {
@@ -662,7 +662,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Aurora'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Aurora'"
           }
         },
         {
@@ -679,7 +679,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Benito Soliven'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Benito Soliven'"
           }
         },
         {
@@ -696,7 +696,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Burgos'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Burgos'"
           }
         },
         {
@@ -713,7 +713,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Cabagan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cabagan'"
           }
         },
         {
@@ -730,7 +730,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Cabatuan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cabatuan'"
           }
         },
         {
@@ -747,7 +747,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Cauayan City'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cauayan City'"
           }
         },
         {
@@ -764,7 +764,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Cordon'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cordon'"
           }
         },
         {
@@ -781,7 +781,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Delfin Albano'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Delfin Albano'"
           }
         },
         {
@@ -798,7 +798,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Dinapigue'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Dinapigue'"
           }
         },
         {
@@ -815,7 +815,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Divilacan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Divilacan'"
           }
         },
         {
@@ -832,7 +832,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Echague'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Echague'"
           }
         },
         {
@@ -849,7 +849,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Gamu'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Gamu'"
           }
         },
         {
@@ -866,7 +866,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Ilagan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Ilagan'"
           }
         },
         {
@@ -883,7 +883,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Jones'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Jones'"
           }
         },
         {
@@ -900,7 +900,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Luna'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Luna'"
           }
         },
         {
@@ -917,7 +917,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Maconacon'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Maconacon'"
           }
         },
         {
@@ -934,7 +934,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Mallig'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Mallig'"
           }
         },
         {
@@ -951,7 +951,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Naguilian'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Naguilian'"
           }
         },
         {
@@ -968,7 +968,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Palanan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Palanan'"
           }
         },
         {
@@ -985,7 +985,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Quezon'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Quezon'"
           }
         },
         {
@@ -1002,7 +1002,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Quirino'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Quirino'"
           }
         },
         {
@@ -1019,7 +1019,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Ramon'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Ramon'"
           }
         },
         {
@@ -1036,7 +1036,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Reina Mercedes'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Reina Mercedes'"
           }
         },
         {
@@ -1053,7 +1053,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Roxas'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Roxas'"
           }
         },
         {
@@ -1070,7 +1070,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'San Agustin'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Agustin'"
           }
         },
         {
@@ -1087,7 +1087,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'San Guillermo'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Guillermo'"
           }
         },
         {
@@ -1104,7 +1104,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'San Isidro'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Isidro'"
           }
         },
         {
@@ -1121,7 +1121,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'San Manuel'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Manuel'"
           }
         },
         {
@@ -1138,7 +1138,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'San Mariano'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Mariano'"
           }
         },
         {
@@ -1155,7 +1155,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'San Mateo'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Mateo'"
           }
         },
         {
@@ -1172,7 +1172,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'San Pablo'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Pablo'"
           }
         },
         {
@@ -1189,7 +1189,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Santa Maria'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Santa Maria'"
           }
         },
         {
@@ -1206,7 +1206,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Santiago City'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Santiago City'"
           }
         },
         {
@@ -1223,7 +1223,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Santo Tomas'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Santo Tomas'"
           }
         },
         {
@@ -1240,7 +1240,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Isabela' AND municipality = 'Tumauini'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Tumauini'"
           }
         }
       ]
@@ -1264,7 +1264,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Alfonso Castaneda'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Alfonso Castaneda'"
           }
         },
         {
@@ -1281,7 +1281,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Ambaguio'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Ambaguio'"
           }
         },
         {
@@ -1298,7 +1298,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Aritao'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Aritao'"
           }
         },
         {
@@ -1315,7 +1315,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Bagabag'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Bagabag'"
           }
         },
         {
@@ -1332,7 +1332,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Bambang'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Bambang'"
           }
         },
         {
@@ -1349,7 +1349,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Bayombong'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Bayombong'"
           }
         },
         {
@@ -1366,7 +1366,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Diadi'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Diadi'"
           }
         },
         {
@@ -1383,7 +1383,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Dupax Del Norte'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Dupax Del Norte'"
           }
         },
         {
@@ -1400,7 +1400,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Dupax Del Sur'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Dupax Del Sur'"
           }
         },
         {
@@ -1417,7 +1417,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Kasibu'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Kasibu'"
           }
         },
         {
@@ -1434,7 +1434,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Kayapa'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Kayapa'"
           }
         },
         {
@@ -1451,7 +1451,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Quezon'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Quezon'"
           }
         },
         {
@@ -1468,7 +1468,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Santa Fe'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Santa Fe'"
           }
         },
         {
@@ -1485,7 +1485,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Solano'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Solano'"
           }
         },
         {
@@ -1502,7 +1502,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Nueva Vizcaya' AND municipality = 'Villaverde'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Villaverde'"
           }
         }
       ]
@@ -1526,7 +1526,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Quirino' AND municipality = 'Aglipay'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Aglipay'"
           }
         },
         {
@@ -1543,7 +1543,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Quirino' AND municipality = 'Cabarroguis'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Cabarroguis'"
           }
         },
         {
@@ -1560,7 +1560,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Quirino' AND municipality = 'Diffun'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Diffun'"
           }
         },
         {
@@ -1577,7 +1577,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Quirino' AND municipality = 'Maddela'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Maddela'"
           }
         },
         {
@@ -1594,7 +1594,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Quirino' AND municipality = 'Nagtipunan'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Nagtipunan'"
           }
         },
         {
@@ -1611,7 +1611,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region I' AND province = 'Quirino' AND municipality = 'Saguday'"
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Saguday'"
           }
         }
       ]
