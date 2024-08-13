@@ -5,824 +5,822 @@
       "type": "group",
       "name": "Pangasinan",
       "members": [
-        [
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Agno",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Agno'"
-            }
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Agno",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
           },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Aguilar",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Aguilar'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Alaminos City",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Alaminos City'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Alcala",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Alcala'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Anda",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Anda'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Asingan",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Asingan'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Balungao",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Balungao'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Bani",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bani'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Basista",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Basista'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Bautista",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bautista'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Bayambang",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bayambang'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Binalonan",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Binalonan'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Binmaley",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Binmaley'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Bolinao",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bolinao'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Bugallon",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bugallon'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Burgos",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Burgos'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Calasiao",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Calasiao'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Dagupan City",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Dagupan City'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Dasol",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Dasol'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Infanta",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Infanta'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Labrador",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Labrador'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Laoac",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Laoac'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Lingayen",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Lingayen'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Mabini",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mabini'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Malasiqui",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Malasiqui'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Manaoag",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Manaoag'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Mangaldan",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mangaldan'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Mangatarem",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mangatarem'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Mapandan",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mapandan'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Natividad",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Natividad'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Pozzorubio",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Pozzorubio'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Rosales",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Rosales'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "San Carlos City",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Carlos City'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "San Fabian",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Fabian'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "San Jacinto",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Jacinto'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "San Manuel",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Manuel'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "San Nicolas",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Nicolas'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "San Quintin",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Quintin'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Santa Barbara",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Santa Barbara'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Santa Maria",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Santa Maria'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Santo Tomas",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Santo Tomas'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Sison",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Sison'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Sual",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Sual'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Tayug",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Tayug'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Umingan",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Umingan'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Urbiztondo",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Urbiztondo'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Urdaneta City",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Urdaneta City'"
-            }
-          },
-          {
-            "description": "Data is from LGU Proponent",
-            "type": "wms",
-            "name": "Villasis",
-            "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-            "layers": "geoagri:fmr_profile_flip",
-            "hideDefaultDescription": true,
-            "hideSource": true,
-            "tileErrorHandlingOptions": {
-              "ignoreUnknownTileErrors": true
-            },
-            "parameters": {
-              "transparent": "true",
-              "format": "image/png",
-              "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Villasis'"
-            }
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Agno'"
           }
-        ]
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Aguilar",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Aguilar'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Alaminos City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Alaminos City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Alcala",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Alcala'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Anda",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Anda'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Asingan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Asingan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Balungao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Balungao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bani",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bani'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Basista",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Basista'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bautista",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bautista'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bayambang",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bayambang'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Binalonan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Binalonan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Binmaley",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Binmaley'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bolinao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bolinao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bugallon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Bugallon'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Burgos",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Burgos'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Calasiao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Calasiao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dagupan City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Dagupan City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dasol",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Dasol'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Infanta",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Infanta'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Labrador",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Labrador'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Laoac",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Laoac'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lingayen",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Lingayen'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mabini",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mabini'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Malasiqui",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Malasiqui'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Manaoag",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Manaoag'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mangaldan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mangaldan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mangatarem",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mangatarem'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mapandan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Mapandan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Natividad",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Natividad'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pozzorubio",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Pozzorubio'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Rosales",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Rosales'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Carlos City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Carlos City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Fabian",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Fabian'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Jacinto",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Jacinto'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Manuel",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Manuel'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Nicolas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Nicolas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Quintin",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'San Quintin'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Barbara",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Santa Barbara'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Maria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Santa Maria'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santo Tomas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Santo Tomas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Sison",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Sison'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Sual",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Sual'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tayug",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Tayug'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Umingan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Umingan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Urbiztondo",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Urbiztondo'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Urdaneta City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Urdaneta City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Villasis",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region I' AND province = 'Pangasinan' AND municipality = 'Villasis'"
+          }
+        }
       ]
     }
   ]
