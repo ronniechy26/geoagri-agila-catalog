@@ -1,0 +1,1263 @@
+{
+  "catalog": [
+    {
+      "id": "JAADYTUJKA",
+      "type": "group",
+      "name": "Marinduque",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Boac",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Marinduque' AND municipality = 'Boac'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Buenavista",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Marinduque' AND municipality = 'Buenavista'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Gasan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Marinduque' AND municipality = 'Gasan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mogpog",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Marinduque' AND municipality = 'Mogpog'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Cruz",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Marinduque' AND municipality = 'Santa Cruz'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Torrijos",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Marinduque' AND municipality = 'Torrijos'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XISEYTSAMX",
+      "type": "group",
+      "name": "Occidental Mindoro",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Abra de Ilog",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Abra de Ilog'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Calintaan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Calintaan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Looc",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Looc'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lubang",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Lubang'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Magsaysay",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Magsaysay'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mamburao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Mamburao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Paluan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Paluan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Rizal",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Rizal'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Sablayan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Sablayan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Jose",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'San Jose'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Cruz",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' AND municipality = 'Santa Cruz'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "HNQIDHLUZN",
+      "type": "group",
+      "name": "Oriental Mindoro",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Baco",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Baco'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bansud",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Bansud'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bongabong",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Bongabong'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bulalacao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Bulalacao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Calapan City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Calapan City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Gloria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Gloria'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mansalay",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Mansalay'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Naujan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Naujan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pinamalayan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Pinamalayan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pola",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Pola'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Puerto Galera",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Puerto Galera'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Roxas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Roxas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Teodoro",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'San Teodoro'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Socorro",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Socorro'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Victoria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' AND municipality = 'Victoria'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "AQBDBSVGYJ",
+      "type": "group",
+      "name": "Palawan",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Aborlan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Aborlan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Agutaya",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Agutaya'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Araceli",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Araceli'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Balabac",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Balabac'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bataraza",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Bataraza'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Brooke's Point",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Brooke's Point'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Busuanga",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Busuanga'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Cagayancillo",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Cagayancillo'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Coron",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Coron'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Culion",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Culion'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Cuyo",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Cuyo'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dumaran",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Dumaran'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "El Nido",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'El Nido'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Linapacan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Linapacan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Magsaysay",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Magsaysay'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Narra",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Narra'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Puerto Princesa City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Puerto Princesa City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Quezon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Quezon'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Rizal",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Rizal'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Roxas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Roxas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Vicente",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'San Vicente'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Sofronio Espa?ola",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Sofronio Espa?ola'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Taytay",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' AND municipality = 'Taytay'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EIBHZQKUOT",
+      "type": "group",
+      "name": "Romblon",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Alcantara",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Alcantara'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Banton",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Banton'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Cajidiocan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Cajidiocan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Calatrava",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Calatrava'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Concepcion",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Concepcion'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Corcuera",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Corcuera'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Ferrol",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Ferrol'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Looc",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Looc'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Magdiwang",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Magdiwang'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Odiongan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Odiongan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Romblon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Romblon'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Agustin",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'San Agustin'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Andres",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'San Andres'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Fernando",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'San Fernando'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Jose",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'San Jose'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Fe",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Santa Fe'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Maria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' AND municipality = 'Santa Maria'"
+          }
+        }
+      ]
+    }
+  ]
+}
