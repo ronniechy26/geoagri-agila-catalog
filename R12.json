@@ -1,0 +1,865 @@
+{
+  "catalog": [
+    {
+      "id": "BVHPOGQWNX",
+      "type": "group",
+      "name": "North Cotabato",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Alamada",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Alamada'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Aleosan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Aleosan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Antipas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Antipas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Arakan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Arakan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Banisilan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Banisilan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Carmen",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Carmen'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Kabacan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Kabacan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Kidapawan City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Kidapawan City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Libungan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Libungan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "M'Lang",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'M'Lang'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Magpet",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Magpet'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Makilala",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Makilala'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Matalam",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Matalam'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Midsayap",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Midsayap'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pigkawayan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Pigkawayan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pikit",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Pikit'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "President Roxas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'President Roxas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tulunan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'North Cotabato' AND municipality = 'Tulunan'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DHYWXAXHEC",
+      "type": "group",
+      "name": "Sarangani",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Alabel",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sarangani' AND municipality = 'Alabel'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Glan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sarangani' AND municipality = 'Glan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Kiamba",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sarangani' AND municipality = 'Kiamba'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Maasim",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sarangani' AND municipality = 'Maasim'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Maitum",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sarangani' AND municipality = 'Maitum'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Malapatan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sarangani' AND municipality = 'Malapatan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Malungon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sarangani' AND municipality = 'Malungon'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CFVCYQSVOM",
+      "type": "group",
+      "name": "South Cotabato",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Banga",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Banga'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "General Santos City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'General Santos City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Koronadal City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Koronadal City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lake Sebu",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Lake Sebu'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Norala",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Norala'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Polomolok",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Polomolok'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santo Nino",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Santo Nino'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Surallah",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Surallah'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "T'Boli",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'T'Boli'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tampakan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Tampakan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tantangan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Tantangan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tupi",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'South Cotabato' AND municipality = 'Tupi'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "NUNBGNLNSO",
+      "type": "group",
+      "name": "Sultan Kudarat",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bagumbayan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Bagumbayan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Columbio",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Columbio'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Esperanza",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Esperanza'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Isulan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Isulan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Kalamansig",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Kalamansig'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lambayong",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Lambayong'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lebak",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Lebak'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lutayan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Lutayan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Palimbang",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Palimbang'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "President Quirino",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'President Quirino'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Sen. Ninoy Aquino",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Sen. Ninoy Aquino'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tacurong City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XII' AND province = 'Sultan Kudarat' AND municipality = 'Tacurong City'"
+          }
+        }
+      ]
+    }
+  ]
+}
