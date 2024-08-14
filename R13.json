@@ -1,14 +1,14 @@
 {
   "catalog": [
     {
-      "id": "LLXKRFMUMC",
+      "id": "UFTGJNXODL",
       "type": "group",
-      "name": "Batanes",
+      "name": "Agusan del Norte",
       "members": [
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Basco",
+          "name": "Buenavista",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -19,13 +19,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Basco'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Buenavista'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Itbayat",
+          "name": "Butuan City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -36,13 +36,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Itbayat'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Butuan City'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Ivana",
+          "name": "Cabadbaran City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -53,13 +53,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Ivana'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Cabadbaran City'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Mahatao",
+          "name": "Carmen",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -70,13 +70,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Mahatao'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Carmen'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Sabtang",
+          "name": "Jabonga",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -87,13 +87,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Sabtang'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Jabonga'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Uyugan",
+          "name": "Kitcharao",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -104,20 +104,122 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' AND municipality = 'Uyugan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Kitcharao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Las Nieves",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Las Nieves'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Magallanes",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Magallanes'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Nasipit",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Nasipit'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Remedios T. Romualdez",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Remedios T. Romualdez'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santiago",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Santiago'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tubay",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Norte' AND municipality = 'Tubay'"
           }
         }
       ]
     },
     {
-      "id": "BPXZWMAWDO",
+      "id": "HBZDXLAJSY",
       "type": "group",
-      "name": "Cagayan",
+      "name": "Agusan del Sur",
       "members": [
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Abulug",
+          "name": "Bayugan City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -128,13 +230,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Abulug'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Bayugan City'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Alcala",
+          "name": "Bunawan",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -145,13 +247,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Alcala'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Bunawan'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Allacapan",
+          "name": "Esperanza",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -162,13 +264,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Allacapan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Esperanza'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Amulung",
+          "name": "La Paz",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -179,13 +281,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Amulung'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'La Paz'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Aparri",
+          "name": "Loreto",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -196,13 +298,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Aparri'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Loreto'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Baggao",
+          "name": "Prosperidad",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -213,13 +315,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Baggao'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Prosperidad'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Ballesteros",
+          "name": "Rosario",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -230,13 +332,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Ballesteros'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Rosario'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Buguey",
+          "name": "San Francisco",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -247,13 +349,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Buguey'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'San Francisco'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Calayan",
+          "name": "San Luis",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -264,13 +366,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Calayan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'San Luis'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Camalaniugan",
+          "name": "Santa Josefa",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -281,13 +383,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Camalaniugan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Santa Josefa'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Claveria",
+          "name": "Sibagat",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -298,13 +400,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Claveria'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Sibagat'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Enrile",
+          "name": "Talacogon",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -315,13 +417,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Enrile'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Talacogon'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Gattaran",
+          "name": "Trento",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -332,13 +434,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Gattaran'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Trento'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Gonzaga",
+          "name": "Veruela",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -349,275 +451,20 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Gonzaga'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Iguig",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Iguig'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Lal-Lo",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Lal-Lo'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Lasam",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Lasam'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Pamplona",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Pamplona'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Peñablanca",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Pe?ablanca'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Piat",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Piat'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Rizal",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Rizal'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Sanchez-Mira",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Sanchez-Mira'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Santa Ana",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santa Ana'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Santa Praxedes",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santa Praxedes'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Santa Teresita",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santa Teresita'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Santo Niño",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Santo Ni?o'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Solana",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Solana'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Tuao",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Tuao'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Tuguegarao City",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' AND municipality = 'Tuguegarao City'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Agusan del Sur' AND municipality = 'Veruela'"
           }
         }
       ]
     },
     {
-      "id": "SIIECHLMJV",
+      "id": "DFZUVJAKYE",
       "type": "group",
-      "name": "Isabela",
+      "name": "Dinagat Islands",
       "members": [
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Alicia",
+          "name": "Basilisa",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -628,13 +475,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Alicia'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Dinagat Islands' AND municipality = 'Basilisa'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Angadanan",
+          "name": "Cagdianao",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -645,13 +492,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Angadanan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Dinagat Islands' AND municipality = 'Cagdianao'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Aurora",
+          "name": "Dinagat",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -662,13 +509,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Aurora'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Dinagat Islands' AND municipality = 'Dinagat'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Benito Soliven",
+          "name": "Libjo",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -679,7 +526,99 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Benito Soliven'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Dinagat Islands' AND municipality = 'Libjo'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Loreto",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Dinagat Islands' AND municipality = 'Loreto'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Jose",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Dinagat Islands' AND municipality = 'San Jose'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tubajon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Dinagat Islands' AND municipality = 'Tubajon'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DUCPBVOWIL",
+      "type": "group",
+      "name": "Surigao del Norte",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Alegria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Alegria'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bacuag",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Bacuag'"
           }
         },
         {
@@ -696,13 +635,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Burgos'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Burgos'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Cabagan",
+          "name": "Claver",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -713,13 +652,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cabagan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Claver'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Cabatuan",
+          "name": "Dapa",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -730,13 +669,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cabatuan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Dapa'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Cauayan City",
+          "name": "Del Carmen",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -747,13 +686,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cauayan City'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Del Carmen'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Cordon",
+          "name": "General Luna",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -764,13 +703,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Cordon'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'General Luna'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Delfin Albano",
+          "name": "Gigaquit",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -781,13 +720,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Delfin Albano'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Gigaquit'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Dinapigue",
+          "name": "Mainit",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -798,13 +737,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Dinapigue'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Mainit'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Divilacan",
+          "name": "Malimono",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -815,13 +754,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Divilacan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Malimono'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Echague",
+          "name": "Pilar",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -832,13 +771,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Echague'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Pilar'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Gamu",
+          "name": "Placer",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -849,13 +788,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Gamu'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Placer'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Ilagan",
+          "name": "San Benito",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -866,13 +805,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Ilagan'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'San Benito'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Jones",
+          "name": "San Francisco",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -883,211 +822,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Jones'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Luna",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Luna'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Maconacon",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Maconacon'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Mallig",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Mallig'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Naguilian",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Naguilian'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Palanan",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Palanan'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Quezon",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Quezon'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Quirino",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Quirino'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Ramon",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Ramon'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Reina Mercedes",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Reina Mercedes'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Roxas",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Roxas'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "San Agustin",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Agustin'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "San Guillermo",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Guillermo'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'San Francisco'"
           }
         },
         {
@@ -1104,13 +839,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Isidro'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'San Isidro'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "San Manuel",
+          "name": "Santa Monica",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1121,13 +856,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Manuel'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Santa Monica'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "San Mariano",
+          "name": "Sison",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1138,13 +873,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Mariano'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Sison'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "San Mateo",
+          "name": "Socorro",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1155,13 +890,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Mateo'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Socorro'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "San Pablo",
+          "name": "Surigao City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1172,13 +907,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'San Pablo'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Surigao City'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Santa Maria",
+          "name": "Tagana-An",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1189,13 +924,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Santa Maria'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Tagana-An'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Santiago City",
+          "name": "Tubod",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1206,54 +941,20 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Santiago City'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Santo Tomas",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Santo Tomas'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Tumauini",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' AND municipality = 'Tumauini'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Norte' AND municipality = 'Tubod'"
           }
         }
       ]
     },
     {
-      "id": "BFKGJRTPMV",
+      "id": "SKCJYLUBKP",
       "type": "group",
-      "name": "Nueva Vizcaya",
+      "name": "Surigao del Sur",
       "members": [
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Alfonso Castaneda",
+          "name": "Barobo",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1264,13 +965,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Alfonso Castaneda'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Barobo'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Ambaguio",
+          "name": "Bayabas",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1281,13 +982,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Ambaguio'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Bayabas'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Aritao",
+          "name": "Bislig City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1298,13 +999,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Aritao'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Bislig City'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Bagabag",
+          "name": "Cagwait",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1315,13 +1016,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Bagabag'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Cagwait'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Bambang",
+          "name": "Cantilan",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1332,13 +1033,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Bambang'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Cantilan'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Bayombong",
+          "name": "Carmen",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1349,13 +1050,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Bayombong'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Carmen'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Diadi",
+          "name": "Carrascal",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1366,13 +1067,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Diadi'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Carrascal'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Dupax Del Norte",
+          "name": "Cortes",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1383,13 +1084,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Dupax Del Norte'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Cortes'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Dupax Del Sur",
+          "name": "Hinatuan",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1400,13 +1101,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Dupax Del Sur'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Hinatuan'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Kasibu",
+          "name": "Lanuza",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1417,13 +1118,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Kasibu'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Lanuza'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Kayapa",
+          "name": "Lianga",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1434,13 +1135,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Kayapa'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Lianga'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Quezon",
+          "name": "Lingig",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1451,13 +1152,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Quezon'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Lingig'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Santa Fe",
+          "name": "Madrid",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1468,13 +1169,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Santa Fe'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Madrid'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Solano",
+          "name": "Marihatag",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1485,13 +1186,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Solano'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Marihatag'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Villaverde",
+          "name": "San Agustin",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1502,37 +1203,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' AND municipality = 'Villaverde'"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ESIWHYCTDO",
-      "type": "group",
-      "name": "Quirino",
-      "members": [
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Aglipay",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Aglipay'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'San Agustin'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Cabarroguis",
+          "name": "San Miguel",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1543,13 +1220,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Cabarroguis'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'San Miguel'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Diffun",
+          "name": "Tagbina",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1560,13 +1237,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Diffun'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Tagbina'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Maddela",
+          "name": "Tago",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1577,13 +1254,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Maddela'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Tago'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Nagtipunan",
+          "name": "Tandag City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1594,24 +1271,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Nagtipunan'"
-          }
-        },
-        {
-          "description": "Data is from LGU Proponent",
-          "type": "wms",
-          "name": "Saguday",
-          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
-          "layers": "geoagri:fmr_profile_flip",
-          "hideDefaultDescription": true,
-          "hideSource": true,
-          "tileErrorHandlingOptions": {
-            "ignoreUnknownTileErrors": true
-          },
-          "parameters": {
-            "transparent": "true",
-            "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' AND municipality = 'Saguday'"
+            "cql_filter": "reg_short_name = 'Region XIII' AND province = 'Surigao del Sur' AND municipality = 'Tandag City'"
           }
         }
       ]

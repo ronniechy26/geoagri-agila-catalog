@@ -1161,7 +1161,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Los Ba?os",
+          "name": "Los Baños",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,

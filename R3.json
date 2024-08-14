@@ -481,7 +481,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Do?a Remedios Trinidad",
+          "name": "Doña Remedios Trinidad",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1049,7 +1049,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Mu?oz City",
+          "name": "Muñoz City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -1117,7 +1117,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Pe?aranda",
+          "name": "Peñaranda",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,

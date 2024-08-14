@@ -1042,7 +1042,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Sag?ay",
+          "name": "Sagñay",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,

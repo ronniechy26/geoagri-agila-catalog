@@ -1447,7 +1447,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Due?as",
+          "name": "Dueñas",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,

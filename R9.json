@@ -294,7 +294,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Pi?an",
+          "name": "Piñan",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
