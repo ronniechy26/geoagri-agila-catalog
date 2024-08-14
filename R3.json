@@ -1,0 +1,2263 @@
+{
+  "catalog": [
+    {
+      "id": "YDTDZIEYLA",
+      "type": "group",
+      "name": "Aurora",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Baler",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Baler'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Casiguran",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Casiguran'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dilasag",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dilasag'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dinalungan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dinalungan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dingalan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dingalan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dipaculao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dipaculao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Maria Aurora",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Maria Aurora'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Luis",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'San Luis'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "LOLRUWPUZI",
+      "type": "group",
+      "name": "Bataan",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Abucay",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Abucay'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bagac",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Bagac'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Balanga City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Balanga City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Dinalupihan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Dinalupihan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Hermosa",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Hermosa'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Limay",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Limay'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mariveles",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Mariveles'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Morong",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Morong'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Orani",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Orani'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Orion",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Orion'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pilar",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Pilar'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Samal",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' AND municipality = 'Samal'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CPWVWLAYXT",
+      "type": "group",
+      "name": "Bulacan",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Angat",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Angat'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Balagtas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Balagtas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Baliuag",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Baliuag'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bocaue",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Bocaue'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bulacan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Bulacan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bustos",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Bustos'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Calumpit",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Calumpit'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Do?a Remedios Trinidad",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Do?a Remedios Trinidad'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Guiguinto",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Guiguinto'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Hagonoy",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Hagonoy'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Malolos City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Malolos City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Marilao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Marilao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Meycauayan City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Meycauayan City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Norzagaray",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Norzagaray'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Obando",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Obando'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pandi",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Pandi'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Paombong",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Paombong'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Plaridel",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Plaridel'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pulilan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Pulilan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Ildefonso",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'San Ildefonso'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Jose del Monte City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'San Jose del Monte City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Miguel",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'San Miguel'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Rafael",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'San Rafael'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Maria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' AND municipality = 'Santa Maria'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "CPWVWLAYXT",
+      "type": "group",
+      "name": "Nueva Ecija",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Aliaga",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Aliaga'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bongabon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Bongabon'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Cabanatuan City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Cabanatuan City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Cabiao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Cabiao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Carranglan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Carranglan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Cuyapo",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Cuyapo'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Gabaldon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Gabaldon'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Gapan City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Gapan City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "General Mamerto Natividad",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'General Mamerto Natividad'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "General Tinio",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'General Tinio'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Guimba",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Guimba'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Jaen",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Jaen'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Laur",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Laur'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Licab",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Licab'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Llanera",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Llanera'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lupao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Lupao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mu?oz City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Mu?oz City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Nampicuan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Nampicuan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Palayan City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Palayan City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pantabangan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Pantabangan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pe?aranda",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Pe?aranda'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Quezon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Quezon'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Rizal",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Rizal'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Antonio",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'San Antonio'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Isidro",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'San Isidro'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Jose City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'San Jose City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Leonardo",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'San Leonardo'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Rosa",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Santa Rosa'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santo Domingo",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Santo Domingo'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Talavera",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Talavera'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Talugtug",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Talugtug'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Zaragoza",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' AND municipality = 'Zaragoza'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "XZSZBOOXPO",
+      "type": "group",
+      "name": "Pampanga",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Angeles City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Angeles City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Apalit",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Apalit'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Arayat",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Arayat'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bacolor",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Bacolor'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Candaba",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Candaba'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Floridablanca",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Floridablanca'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Guagua",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Guagua'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Lubao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Lubao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mabalacat",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Mabalacat'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Macabebe",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Macabebe'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Magalang",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Magalang'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Masantol",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Masantol'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mexico",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Mexico'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Minalin",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Minalin'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Porac",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Porac'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Fernando City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'San Fernando City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Luis",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'San Luis'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Simon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'San Simon'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Ana",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Santa Ana'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Rita",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Santa Rita'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santo Tomas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Santo Tomas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Sasmuan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' AND municipality = 'Sasmuan'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "COWZVSTHZK",
+      "type": "group",
+      "name": "Tarlac",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Anao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Anao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Bamban",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Bamban'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Camiling",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Camiling'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Capas",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Capas'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Concepcion",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Concepcion'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Gerona",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Gerona'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "La Paz",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'La Paz'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Mayantoc",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Mayantoc'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Moncada",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Moncada'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Paniqui",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Paniqui'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Pura",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Pura'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Ramos",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Ramos'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Clemente",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'San Clemente'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Jose",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'San Jose'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Manuel",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'San Manuel'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Ignacia",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Santa Ignacia'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Tarlac City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Tarlac City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Victoria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' AND municipality = 'Victoria'"
+          }
+        }
+      ]
+    },
+    {
+      "id": "YXAADNFCTF",
+      "type": "group",
+      "name": "Zambales",
+      "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Botolan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Botolan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Cabangan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Cabangan'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Candelaria",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Candelaria'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Castillejos",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Castillejos'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Iba",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Iba'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Masinloc",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Masinloc'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Olongapo City",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Olongapo City'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Palauig",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Palauig'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Antonio",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'San Antonio'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Felipe",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'San Felipe'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Marcelino",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'San Marcelino'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "San Narciso",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'San Narciso'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Santa Cruz",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Santa Cruz'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Subic",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' AND municipality = 'Subic'"
+          }
+        }
+      ]
+    }
+  ]
+}
