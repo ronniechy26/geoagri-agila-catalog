@@ -2,6 +2,22 @@
   "catalog": [
     {
       "type": "wms",
+      "name": "CAR",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH15' "
+      }
+    },
+    {
+      "type": "wms",
       "name": "Region I",
       "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
       "layers": "geoagri:region_boundary",
@@ -94,6 +110,150 @@
         "transparent": "true",
         "format": "image/png",
         "cql_filter": "ID = 'PH05' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region VI",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH06' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region VII",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH07' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region VIII",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH08' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region IX",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH09' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region X",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH10' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region XI",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH11' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region XII",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH12' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "Region XIII",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH13' "
+      }
+    },
+    {
+      "type": "wms",
+      "name": "BARMM",
+      "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+      "layers": "geoagri:region_boundary",
+      "hideDefaultDescription": true,
+      "hideSource": true,
+      "tileErrorHandlingOptions": {
+        "ignoreUnknownTileErrors": true
+      },
+      "parameters": {
+        "transparent": "true",
+        "format": "image/png",
+        "cql_filter": "ID = 'PH14' "
       }
     }
   ]
