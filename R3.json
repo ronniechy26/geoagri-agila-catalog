@@ -19,7 +19,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' "
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' "
           }
         },
         {
@@ -36,7 +36,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Baler'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'Baler'"
           }
         },
         {
@@ -53,7 +53,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Casiguran'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'Casiguran'"
           }
         },
         {
@@ -70,7 +70,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dilasag'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'Dilasag'"
           }
         },
         {
@@ -87,7 +87,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dinalungan'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'Dinalungan'"
           }
         },
         {
@@ -104,7 +104,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dingalan'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'Dingalan'"
           }
         },
         {
@@ -121,7 +121,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Dipaculao'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'Dipaculao'"
           }
         },
         {
@@ -138,7 +138,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'Maria Aurora'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'Maria Aurora'"
           }
         },
         {
@@ -155,7 +155,7 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' AND municipality = 'San Luis'"
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Aurora' AND municipality = 'San Luis'"
           }
         }
       ]
