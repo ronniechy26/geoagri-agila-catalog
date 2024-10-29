@@ -8,6 +8,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Aurora",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Quirino' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Baler",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -148,6 +165,23 @@
       "type": "group",
       "name": "Bataan",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Bataan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bataan' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -359,6 +393,23 @@
       "type": "group",
       "name": "Bulacan",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Bulacan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Bulacan' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -774,6 +825,23 @@
       "type": "group",
       "name": "Nueva Ecija",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Nueva Ecija",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Nueva Ecija' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -1328,6 +1396,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Pampanga",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Pampanga' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Angeles City",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -1709,6 +1794,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Tarlac",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Tarlac' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Anao",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -2019,6 +2121,23 @@
       "type": "group",
       "name": "Zambales",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Zambales",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region III' AND province = 'Zambales' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",

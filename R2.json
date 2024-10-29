@@ -8,6 +8,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Batanes",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Batanes' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Basco",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -114,6 +131,23 @@
       "type": "group",
       "name": "Cagayan",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Cagayan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Cagayan' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -614,6 +648,23 @@
       "type": "group",
       "name": "Isabela",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Isabela",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Isabela' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -1253,6 +1304,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Nueva Vizcaya",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Nueva Vizcaya' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Alfonso Castaneda",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -1512,6 +1580,23 @@
       "type": "group",
       "name": "Quirino",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Quirino",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region II' AND province = 'Quirino' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
