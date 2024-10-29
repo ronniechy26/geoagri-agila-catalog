@@ -8,6 +8,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Abra",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'CAR' AND province = 'Abra' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Bangued",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -474,6 +491,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Apayao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'CAR' AND province = 'Apayao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Calanasan",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -597,6 +631,23 @@
       "type": "group",
       "name": "Benguet",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Benguet",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'CAR' AND province = 'Benguet'"
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -845,6 +896,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Ifugao",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'CAR' AND province = 'Ifugao'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Aguinaldo",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -1039,6 +1107,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Kalinga",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'CAR' AND province = 'Kalinga'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Balbalan",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -1179,6 +1264,23 @@
       "type": "group",
       "name": "Mountain Province",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Mountain Province",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'CAR' AND province = 'Mountain Province'"
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
