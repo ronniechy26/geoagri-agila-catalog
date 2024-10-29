@@ -8,6 +8,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Aklan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Aklan' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Altavas",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -301,6 +318,23 @@
       "type": "group",
       "name": "Antique",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Antique",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -600,6 +634,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Capiz",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Capiz' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Cuartero",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -896,6 +947,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Guimaras",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Guimaras' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Cuartero",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -1189,6 +1257,23 @@
       "type": "group",
       "name": "Iloilo",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Iloilo",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Iloilo' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -1944,6 +2029,23 @@
       "type": "group",
       "name": "Negros Occidental",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Negros Occidental",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Negros Occidental' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
