@@ -8,6 +8,23 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
+          "name": "Province of Marinduque",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Marinduque' "
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
           "name": "Boac",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
@@ -114,6 +131,23 @@
       "type": "group",
       "name": "Occidental Mindoro",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Occidental Mindoro",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Occidental Mindoro' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -308,6 +342,23 @@
       "type": "group",
       "name": "Oriental Mindoro",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Oriental Mindoro",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Oriental Mindoro' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -570,6 +621,23 @@
       "type": "group",
       "name": "Palawan",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Palawan",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Palawan' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
@@ -968,6 +1036,23 @@
       "type": "group",
       "name": "Romblon",
       "members": [
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Province of Romblon",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region IV-B' AND province = 'Romblon' "
+          }
+        },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
